@@ -97,6 +97,18 @@ You can install the script in **two ways**:
 
 ---
 
+## 🖥️ Tested On
+
+This script has been tested on the following browsers and operating systems:
+
+- ✅ **Google Chrome** (Windows 11)  
+- ✅ **Microsoft Edge** (Windows 11)  
+- ✅ **Mozilla Firefox** (Windows 11)  
+
+⚠️ **Note:** Compatibility with other operating systems (macOS, Linux) or browsers (Opera GX, Brave) is **not guaranteed**.
+
+---
+
 ## ⚠️ Disclaimer
-- Your credentials are stored **locally** in the script — **do not share** your customized version with others.  
+- Your credentials are stored **locally** in the script — **they are never sent to any external servers** — **do not share** your customized version with others.  
 - This script is intended for **personal use** only.
