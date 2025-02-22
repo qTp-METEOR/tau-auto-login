@@ -29,8 +29,6 @@ If you're using **Chrome** or **Edge**, you **must** enable **Developer Mode** f
      - ✅ **"Allow access to file URLs"**  
      - ✅ **"Site access"** → Set to **"On all sites"** or specifically for `https://nidp.tau.ac.il/nidp/*`
 
-4. **Restart your browser** to apply the changes.
-
 ✅ **Firefox users:** You can skip this step — no Developer Mode is required.
 
 ---
