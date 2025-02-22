@@ -109,6 +109,19 @@ This script has been tested on the following browsers and operating systems:
 
 ---
 
+## 💬 Feedback & Contributions
+
+Found a bug? Have an idea for a new feature?  
+
+👉 [**Open an Issue**](../../issues) to report bugs or suggest improvements.
+
+- 🐞 **Bug Reports:** Clearly describe the issue and steps to reproduce it.  
+- 💡 **Feature Requests:** Share your ideas for new features or enhancements.
+
+Your feedback helps make this script better for everyone! 🚀
+
+---
+
 ## ⚠️ Disclaimer
 - Your credentials are stored **locally** in the script — **they are never sent to any external servers** — **do not share** your customized version with others.  
 - This script is intended for **personal use** only.
