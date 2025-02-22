@@ -16,8 +16,8 @@ This Tampermonkey script automatically fills in your login credentials and logs 
 If you're using **Chrome** or **Edge**, you **must** enable **Developer Mode** for the script to work.
 
 1. **Open Browser Extensions:**  
-   - For **Chrome**, go to `chrome://extensions/`.  
-   - For **Edge**, go to `edge://extensions/`.
+   - For **Chrome**, go [**Here**](chrome://extensions/).  
+   - For **Edge**, go [**Here**](edge://extensions/).
 
 2. **Enable Developer Mode:**  
    - In **Chrome**, toggle **"Developer mode"** in the **top-right corner**.  
