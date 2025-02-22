@@ -6,7 +6,7 @@ This Tampermonkey script automatically fills in your login credentials and logs 
 
 ## 🎬 Video Tutorial
 
-Need help setting up the script? Watch this quick **2-minute tutorial** that walks you through the entire process:
+Need help setting up the script? Watch this quick 2-minute tutorial that walks you through the entire process:
 
 👉 [**Watch the Video on Vimeo**](https://vimeo.com/1059302268)
 
