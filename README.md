@@ -4,6 +4,14 @@ This Tampermonkey script automatically fills in your login credentials and logs 
 
 ---
 
+## 🎬 Video Tutorial
+
+Need help setting up the script? Watch this quick **2-minute tutorial** that walks you through the entire process:
+
+👉 [**Watch the Video on Vimeo**](https://vimeo.com/1059302268)
+
+---
+
 ## 🚀 How to Use
 
 ### 1️⃣ Install Tampermonkey Extension  
@@ -16,7 +24,7 @@ This Tampermonkey script automatically fills in your login credentials and logs 
 If you're using **Chrome** or **Edge**, you **must** enable **Developer Mode** for the script to work.
 
 1. **Open Browser Extensions:**  
-   - For **Chrome**, go to `chrome://extensions/`.
+   - For **Chrome**, go to `chrome://extensions/`.  
    - For **Edge**, go to `edge://extensions/`.
 
 2. **Enable Developer Mode:**  
